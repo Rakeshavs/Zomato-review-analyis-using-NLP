@@ -6,7 +6,7 @@ This project performs sentiment analysis on Zomato food reviews using Natural La
 
 ---
 
-## 🧠 Project Highlights
+##  Project Highlights
 
 - Text preprocessing using `regex`, `stopwords`, and `stemming`
 - Feature extraction using `CountVectorizer`
@@ -16,7 +16,7 @@ This project performs sentiment analysis on Zomato food reviews using Natural La
 
 ---
 
-## 🚀 Technologies Used
+ ## Technologies 
 
 - Python
 - Pandas, NumPy
@@ -35,11 +35,6 @@ This project performs sentiment analysis on Zomato food reviews using Natural La
 
 ---
 
-## 📁 Dataset
-
-- Input: A `.csv` file with at least two columns: `"Review"` and `"Sentiment"`
-- `"Review"`: The user’s review text
-- `"Sentiment"`: Label (e.g., 0 for negative, 1 for positive)
 
 ---
 
